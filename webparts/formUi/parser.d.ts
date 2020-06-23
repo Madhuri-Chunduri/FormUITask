@@ -1,0 +1,1 @@
+declare module 'sharepoint-events-parser';
